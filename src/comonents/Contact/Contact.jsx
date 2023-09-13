@@ -24,7 +24,7 @@ function Contact() {
   };
 
   return (
-    <div className="contact__container">
+    <div className="contact__container ">
       <h2 className="heading">Contact Us</h2>
       <form onSubmit={handleSubmit}>
         <div>
