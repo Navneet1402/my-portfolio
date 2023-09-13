@@ -6,7 +6,7 @@ import About from './comonents/home/about/About';
 import Skills from './comonents/skills/Skills';
 import Services from './comonents/services/Services';
 import Qualification from './comonents/Qualifications/Qualification';
-
+import Contact from './comonents/Contact/Contact';
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
       <Skills/>
       <Services/>
       <Qualification/>
+      <Contact/>
 
     </main>
     </>
