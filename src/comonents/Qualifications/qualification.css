@@ -1,3 +1,44 @@
 .section__title{
     font-family: poppins;
 }
+
+.qualification__container{
+    max-width: 768px;
+    border: 1px solid black;
+
+
+}
+.qualification__tabs{
+    display: flex;
+    justify-content: left;
+    margin-bottom: 2rem;
+    
+}
+
+.qualification__button{
+    font-size: 10px;
+    cursor: pointer;
+}
+.qualification__title,
+.qualification__subtitle{
+    font-family: poppins;
+}
+.qualification__subtitle{
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+.qualification__title{
+    margin-top: 0;
+}
+.qualification__calender{
+    font-size: 14px;
+}
+
+.heading{
+    font-family: poppinsa;
+    
+}
+.qualification__icon{
+    font-size: 30px;
+    font-family: poppins;
+}
