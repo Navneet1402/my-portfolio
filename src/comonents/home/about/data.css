@@ -1,0 +1,22 @@
+.button--flex {
+
+    font-family: poppins;
+    
+    
+
+}
+
+.button{
+    color: black;
+    border: 1px solid black;
+    font-family: poppins;
+    background-color: rgba(103, 102, 102, 0.444);
+    padding: 10px;
+    
+    
+}
+
+.button:hover{
+    background-color: rgba(0, 98, 255, 0.588);
+
+}
