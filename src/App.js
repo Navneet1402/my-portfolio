@@ -7,6 +7,8 @@ import Skills from './comonents/skills/Skills';
 import Services from './comonents/services/Services';
 import Qualification from './comonents/Qualifications/Qualification';
 import Contact from './comonents/Contact/Contact';
+import Footer from './comonents/Footer/Footer';
+import Scrollup from './comonents/Scrollup/Scrollup';
 
 function App() {
   return (
@@ -19,11 +21,14 @@ function App() {
       <Services/>
       <Qualification/>
       <Contact/>
+      <Footer/>
+      <Scrollup/>
 
     </main>
     </>
   
   );
 }
+
 
 export default App;
