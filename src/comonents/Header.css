@@ -106,7 +106,7 @@
     .nav__icon,
     .nav__close,
     .nav__toggle{
-        display: block;
+        display: none;
     }  
 }
 
@@ -116,4 +116,7 @@
     }
 
     
+}
+.scroll-header{
+    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.13);
 }
